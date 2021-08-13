@@ -32,6 +32,7 @@ div.lotto section .num .lottoNum{
     font-size: 18px;
     text-align: center;
     line-height: 40px;
+    margin: 10px;
     
 }
 div.lotto section .num .divine{
@@ -40,5 +41,6 @@ div.lotto section .num .divine{
     font-size: 18px;
     text-align: center;
     line-height: 40px;
+    margin: 10px;
     
 }
