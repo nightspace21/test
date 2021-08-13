@@ -1,7 +1,7 @@
 /* day53-2_style.css */
 
 div.lotto{
-background-color: fc0;
+background-color: #fc0;
 }
 div.lotto header{}
 div.lotto header h3{ text-align: center;}
