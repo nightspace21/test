@@ -1,10 +1,8 @@
 /* day53-2_style.css */
 
-div.lotto{
-background-color: #fc0;
-}
+div.lotto{}
 div.lotto header{}
-div.lotto header h3{ text-align: center;}
+div.lotto header h3{text-align: center;}
 div.lotto section{}
 div.lotto section .btn{
     text-align: center;
@@ -14,14 +12,15 @@ div.lotto section .btn button{
     font-weight: 700;
     font-size: 24px;
     /**/
-    border-radius: 40px;
+    border-radius: 20px;
 
     
 }
 div.lotto section .num{
     display: flex;
     justify-content: center;
-    margin-top: 80px;
+    margin-top: 40px;
+    width: 50px; height: 50px;
 }
 div.lotto section .num .lottoNum{
     width: 50px; height: 50px;
@@ -36,7 +35,7 @@ div.lotto section .num .lottoNum{
     
 }
 div.lotto section .num .divine{
-    width: 20px; height: 40px;
+    width: 50px; height: 50px;
     font-weight: 900;
     font-size: 18px;
     text-align: center;
